@@ -128,6 +128,3 @@ namespace TenantKeyGenerator
 
 This project is licensed under the MIT License.
 
----
-
-Feel free to modify this README as needed. Let me know if there's anything else you'd like to add!
